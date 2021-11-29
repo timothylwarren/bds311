@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Syllabus <br> Biological Data Sciences 311 <br> Computational Approaches to Biological Data <br> Spring 2021, Oregon State University
+title: Syllabus <br> Biological Data Sciences 311 <br> Computational Approaches to Biological Data <br> Winter 2022, Oregon State University
 ---
 
 ### Instructor
@@ -10,8 +10,8 @@ tim.warren AT oregonstate.edu
 
 ### Course Information
 
-- Class Meetings: Tuesday/Thursday 2-3:20pm
-- Office Hours/Lab: Friday, 3-4pm
+- Class Meetings: Tuesday/Thursday 10-11:20am
+- Office Hours/Lab: TBD
 - Course Web site (Weekly calendar) <https://timothylwarren.github.io/bds311/>
 - Canvas site (Problem sets) <https://canvas.oregonstate.edu/courses/1819463>
 
